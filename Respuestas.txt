@@ -1,0 +1,9 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+No, ya que este pertenece a una rama diferente.
+
+
+Vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+La rama main tiene cambios más recientes que la rama Opcion_2
+
+combinamos master con Opcion_2 ¿Qué nota?
+Los cambios realizados en Opcion_2 fueron añadidos a main
